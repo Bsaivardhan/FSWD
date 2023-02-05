@@ -1,0 +1,59 @@
+div
+{
+    border-radius: 5px;
+    }
+#header
+{
+    position: fixed;
+    z-index: 1;
+    color:black;
+    text-align: center;
+    height:40px;
+    width: 98%;
+    background-color: #668284;
+    margin-bottom: 10px
+    
+    }
+
+   
+    .right
+{
+    float: left;
+    margin-top: 50px;
+    text-align:left;
+    padding-left:5px;
+    height: auto;
+    width: 99%;
+    background-color: #E3EDD8;
+    }
+    #xyz{
+        font-size: 20px;
+    }
+    .head{
+        text-align:center;
+    }
+    table
+    {
+    border: 1px dashed black;
+    }
+    td
+    {
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+    th
+    {
+    border: 1px solid #E88741;
+    font-weight:bold;
+    }
+    hr{
+        height:5px;
+        background: black;
+    }
+    #footer
+{
+    height:40px;
+    clear:both;
+    position: relative;
+    background-color: #C1E3E1;
+    }
